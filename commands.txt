@@ -1,0 +1,3 @@
+arr.map(a => a.getAttribute("data-text")) {Get the Grid}
+
+
